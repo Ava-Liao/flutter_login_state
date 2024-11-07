@@ -25,6 +25,7 @@ GetX is a package that provides a way to manage app state across multiple pages,
 core concepts:
 - StatefulWidget
 - setState
+State has lifecycle, and the lifecycle consists of three parts:initState, build, and dispose.
 
 
 ### 3.the simple exampe of Provider

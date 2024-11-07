@@ -4,6 +4,7 @@ import 'pages/setState.dart';
 import 'pages/provider.dart';
 import 'pages/getx.dart';
 import 'store/auth_provider.dart';
+import 'pages/setting.dart';
 
 void main() {
   runApp(
